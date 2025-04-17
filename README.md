@@ -1,6 +1,6 @@
 ### Hey there, I'm Ahad Ramzan 👋
 
-🎓 A passionate **BS Computer Science** student at **Leads University, Lahore**  
+🎓 A **Computer Science graduate** from **Lahore Leads University, Lahore**  
 💻 Web development enthusiast with a strong focus on **frontend technologies**  
 🚀 Currently diving deep into **Next.js**, **React.js**, **Tailwind CSS**, and **TypeScript**  
 🔧 Also learning **Node.js**, mastering **Git**, and exploring full-stack development  
